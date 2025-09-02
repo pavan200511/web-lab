@@ -1,0 +1,29 @@
+<html>
+<head>
+
+<!---External CSS---->
+
+<link rel="stylesheet" href="home/pc/4PM24CS406/css/style.css"></link>
+</head>
+<body>
+
+
+<span id="textfront">External CSS</span>
+<hr></hr>
+
+<span class="textfield">class based selector</span>
+
+
+<!---Inline CSS---->
+
+<h2 id="textfront">Inline selector</h2>
+<h3 class="testfield">Internal CSS</h3>
+<p> Develop an external style sheet to named as"style.css and provide different styles of h2,h3,h3 and p,div, span, time and some tags.Apply different css selectors for tags and demonstrate the significance of each.</p>
+<div>
+	<p> The tag defines a division or a section in a HTML document.</p>
+</div>
+<img src="/home/pc/Downloads/imgsunset.jpej" alt="Image not found" height="200" width="400"></img>
+<a href="https://www.w3schools.com">Click on the link</a>
+<time>10:00</time>
+</body>
+</html>
