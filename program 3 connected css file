@@ -1,0 +1,33 @@
+#textfront{
+color:red;
+background-color:grey;
+text-align:right;
+border:1px solid blue;
+margin-left:200px;
+}
+
+
+/*Class based Selector*/
+.testfield{
+color:pink;
+border:3px dotted green
+}
+
+/*element based selector*/
+p{
+color:green;
+}
+hr{
+padding:28px;
+}
+
+/*descendant-based-selector*/
+div p{
+color: red;
+font-weight:bold;
+}
+
+img{
+border: 10px solid red;
+margin-left:800px;
+}
